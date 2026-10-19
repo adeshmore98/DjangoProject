@@ -85,4 +85,4 @@ CRUD operations were verified using successful HTTP responses.
 
 ## Screenshots
 
-Screenshots of the signup page, login page, login confirmation, Django Admin, and Postman API responses are included in the `screenshots/` directory.
+Screenshots of the signup page, login page, login confirmation, Django Admin, and Postman API responses are included in the `Screenshots/` directory.
